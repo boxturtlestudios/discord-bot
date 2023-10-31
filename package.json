@@ -1,0 +1,30 @@
+{
+  "name": "discord-bot",
+  "version": "0.0.1",
+  "description": "Box Turtle Studios Discord bot for the official Discord server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boxturtlestudios/discord-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "discord",
+    "bot"
+  ],
+  "author": "Jacob Wigent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boxturtlestudios/discord-bot/issues"
+  },
+  "homepage": "https://github.com/boxturtlestudios/discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.13.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.52.0"
+  }
+}
